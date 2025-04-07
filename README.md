@@ -1,4 +1,4 @@
-# Name : Jayadev Goksula
+# Name : Sai Divya Katakamsetty
 ## Question 1 : Implementing a Basic Autoencoder
 - Load MNIST Data: The dataset is loaded and normalized to have pixel values between 0 and 1.
 - Define Autoencoder Model:
